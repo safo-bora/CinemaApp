@@ -19,12 +19,12 @@ Go to MacOS Finder, press:SHIFT + CMD + G and paste the logged path to the SQLit
 Finally open the SQLite database file with, for example: SQLite browser
 
 # Screens
-<img src="Screens/1.png">
-<img src="Screens/2.png">
-<img src="Screens/3.png">
-<img src="Screens/4.png">
-<img src="Screens/5.png">
-<img src="Screens/6.png">
-<img src="Screens/7.png">
-<img src="Screens/8.png">
-<img src="Screens/9.png">
+<img src="Screens/1.png" width="300">
+<img src="Screens/2.png" width="300">
+<img src="Screens/3.png" width="300">
+<img src="Screens/4.png" width="300">
+<img src="Screens/5.png" width="300">
+<img src="Screens/6.png" width="300">
+<img src="Screens/7.png" width="800">
+<img src="Screens/8.png" width="800">
+<img src="Screens/9.png" width="800">
