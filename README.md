@@ -1,3 +1,6 @@
+# POSTPONED - only prototype and study
+The parser works, but view controllers should be updated and fixed. 
+
 # CinemaApp (JSON PARSER)
 IOS Development (Swift Learning) 
 
